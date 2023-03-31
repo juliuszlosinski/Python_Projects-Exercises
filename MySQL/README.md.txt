@@ -1,1 +1,0 @@
-![Screenshot](Humidity (sample of time).png)
