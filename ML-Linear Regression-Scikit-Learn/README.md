@@ -1,3 +1,7 @@
+## 1. OpenGL and DirectX 12 measurements
+
+![image](https://user-images.githubusercontent.com/72278818/232249322-1d07a0da-b11c-4693-bd53-7324ac489061.png)
+
 ## 1. OpenGL results
 
 ![image](https://user-images.githubusercontent.com/72278818/232249097-2cd802a3-5dc2-4ba0-b870-2e2307e1d892.png)
