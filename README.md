@@ -1,5 +1,5 @@
 # Python_Projects-Exercises
-Various Projects and Exercises made by using Python
+Various projects and exercises made by using Python
 
 **Ceasar Cipher:**
 
