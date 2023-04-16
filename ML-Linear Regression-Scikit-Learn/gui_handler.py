@@ -162,5 +162,6 @@ class GPUGUI:
 
         self.window.mainloop()
 
-
-gui = GPUGUI()
+        
+if __name__ == "__main__":
+    gui = GPUGUI()
