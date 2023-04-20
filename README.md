@@ -19,11 +19,15 @@ Various projects and exercises made by using Python
 
 ![image](https://user-images.githubusercontent.com/72278818/232249097-2cd802a3-5dc2-4ba0-b870-2e2307e1d892.png)
 ![image](https://user-images.githubusercontent.com/72278818/232249103-a3c08dee-4180-4a51-8acc-ca4b7479a0bf.png)
+![image](https://user-images.githubusercontent.com/72278818/233343605-cb106bbe-5f4c-4f90-9ab1-eb23f411e169.png)
+![image](https://user-images.githubusercontent.com/72278818/233343677-8aedb284-9b8f-46db-a781-67a3b481c75d.png)
 
 ### 1.1. DirectX 12 results
 
 ![image](https://user-images.githubusercontent.com/72278818/232307506-875a7dd1-5722-4dfd-814b-f01abb730009.png)
 ![image](https://user-images.githubusercontent.com/72278818/232307241-1ad650ee-9138-4d7e-bd9d-ef176f5688fd.png)
+![image](https://user-images.githubusercontent.com/72278818/233344000-7fd68dcb-5cc4-4e96-bc3a-fc60f9fb40d9.png)
+![image](https://user-images.githubusercontent.com/72278818/233344134-d1a056fd-1483-4c78-88aa-006030ec4727.png)
 
 ## 2. IoT Application
 
