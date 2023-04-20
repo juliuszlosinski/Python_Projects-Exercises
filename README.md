@@ -11,6 +11,10 @@ Various projects and exercises made by using Python
 
 ![image](https://user-images.githubusercontent.com/72278818/232307214-9589ddc7-4c4a-467f-88f0-e432e9d47ff7.png)
 
+![image](https://user-images.githubusercontent.com/72278818/233342747-936fba15-f8c3-418b-9939-0d9681877ee3.png)
+
+![image](https://user-images.githubusercontent.com/72278818/233342925-d561d9f7-9a8a-41eb-abab-2575a497aa00.png)
+
 ### 1.1. OpenGL results
 
 ![image](https://user-images.githubusercontent.com/72278818/232249097-2cd802a3-5dc2-4ba0-b870-2e2307e1d892.png)
